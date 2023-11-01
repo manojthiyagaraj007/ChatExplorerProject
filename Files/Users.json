@@ -1,0 +1,220 @@
+[
+  {
+    "userId": "usr_e1a3zNltGkDg7NEfoXGNtmj",
+    "orgId": "org_j4lmHE1PIlalDHr9OXGRANu",
+    "email": "backend@taiwa.com",
+    "firstName": "backend",
+    "lastName": "taiwa",
+    "createdAt": "2023-09-04T14:10:10.434Z",
+    "updatedAt": "2023-09-04T15:02:49.093Z",
+    "metadata": {}
+  },
+  {
+    "userId": "usr_9J4ZWv6qrh4Die8Hofl9JCy",
+    "orgId": "org_01AlWGqJcSTBLANSXIGjB5h",
+    "email": "taiwamanager@ihsan.dev",
+    "firstName": "Ihsan",
+    "lastName": "Isik",
+    "createdAt": "2023-09-04T15:39:01.441Z",
+    "updatedAt": "2023-09-04T15:41:26.057Z",
+    "metadata": {}
+  },
+  {
+    "userId": "usr_5dEfewcqGSxE0MZdjdh6mXm",
+    "orgId": "org_01AlWGqJcSTBLANSXIGjB5h",
+    "email": "development@taiwa.com",
+    "firstName": "Ihsan",
+    "lastName": "Isik",
+    "createdAt": "2023-09-04T15:41:36.276Z",
+    "updatedAt": "2023-09-04T15:44:12.001Z",
+    "metadata": {
+      "inviteeId": "usr_9J4ZWv6qrh4Die8Hofl9JCy"
+    }
+  },
+  {
+    "userId": "usr_5TLDjuEWtxQEt0oONevV_2Z",
+    "orgId": "org_LSP2cV6mrjgF1XCz1gywed7",
+    "email": "manager@ihsan.dev",
+    "firstName": "Ihsan",
+    "lastName": "Isik",
+    "createdAt": "2023-09-08T09:15:37.055Z",
+    "updatedAt": "2023-09-08T10:12:44.135Z",
+    "metadata": {}
+  },
+  {
+    "userId": "usr_1XsLnClr2XRtv3MCNKnSdW8",
+    "orgId": "org_LSP2cV6mrjgF1XCz1gywed7",
+    "email": "employee3@ihsan.dev",
+    "firstName": "James",
+    "lastName": "Cameroon",
+    "createdAt": "2023-09-08T11:23:31.206Z",
+    "updatedAt": "2023-09-08T11:24:22.547Z",
+    "metadata": {
+      "inviteeId": "usr_5TLDjuEWtxQEt0oONevV_2Z"
+    }
+  },
+  {
+    "userId": "usr_GUUCBUfRiM6mljdVY0IMioJ",
+    "orgId": "org_LSP2cV6mrjgF1XCz1gywed7",
+    "email": "employee@ihsan.dev",
+    "firstName": "John",
+    "lastName": "Cane",
+    "createdAt": "2023-09-08T10:13:40.942Z",
+    "updatedAt": "2023-09-08T12:05:48.808Z",
+    "metadata": {
+      "inviteeId": "usr_5TLDjuEWtxQEt0oONevV_2Z"
+    }
+  },
+  {
+    "userId": "usr_Th7W4za_Qf0s9KqGSP48W71",
+    "orgId": "org_l83F7h3FoRFuOO2fcIVtCPF",
+    "email": "newmanager@ihsan.dev",
+    "firstName": "Jeremy",
+    "lastName": "Smith",
+    "createdAt": "2023-09-08T13:32:48.558Z",
+    "updatedAt": "2023-09-08T13:39:16.250Z",
+    "metadata": {}
+  },
+  {
+    "userId": "usr__lABFUZBipvpeilLXMKIGR0",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "taiwaman@ihsan.dev",
+    "firstName": "Ihsan",
+    "lastName": "Isik",
+    "createdAt": "2023-09-08T13:59:27.958Z",
+    "updatedAt": "2023-09-08T14:00:36.191Z",
+    "metadata": {}
+  },
+  {
+    "userId": "usr_G_ePFTK5zMiRVlvjb1vLbQo",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "anni.siemes@empowermentholdings.com",
+    "firstName": "Anni",
+    "lastName": "Siemes",
+    "createdAt": "2023-09-08T14:01:44.367Z",
+    "updatedAt": "2023-09-08T14:01:44.440Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_O1qXoz6DSmVGD8I4brYt6S1",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "simran.khaitan@taiwa.com",
+    "firstName": "Simran",
+    "lastName": "Khaitan",
+    "createdAt": "2023-09-08T14:04:20.390Z",
+    "updatedAt": "2023-09-08T14:14:39.809Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_GPQ_tnmatFtBSV3WeWehU6Q",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "charlotte.vilrik@taiwa.com",
+    "firstName": "Charlotte",
+    "lastName": "Vilrik",
+    "createdAt": "2023-09-08T14:02:24.675Z",
+    "updatedAt": "2023-09-08T14:20:12.525Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_RWtVHe5JzVqHRBmYXts0yze",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "maureen.lauer-gatta@empowermentholdings.com",
+    "firstName": "Maureen",
+    "lastName": "Lauer-Gatta",
+    "createdAt": "2023-09-08T14:03:27.684Z",
+    "updatedAt": "2023-09-08T15:06:49.995Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_rpn_8hHAm_txRzM_1ijZnJK",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "nazym.satbekova@taiwa.com",
+    "firstName": "Nazym",
+    "lastName": "Satbekova",
+    "createdAt": "2023-09-08T14:04:00.123Z",
+    "updatedAt": "2023-09-08T16:20:26.652Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_y6Vhd5FNL6p_wvbx7J90Jba",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "dtp@empowermentholdings.com",
+    "firstName": "Dawa",
+    "lastName": "Tarchin Phillips",
+    "createdAt": "2023-09-08T14:05:33.598Z",
+    "updatedAt": "2023-09-10T01:05:31.070Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_RkBqV5KycCshr53E4iGklu7",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "alon.parag@taiwa.com",
+    "firstName": "Alon",
+    "lastName": "Parag",
+    "createdAt": "2023-09-08T14:01:25.713Z",
+    "updatedAt": "2023-09-11T05:32:04.783Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_g6KeMrAdjJQAncezhjdvTd4",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "robin.jose@taiwa.com",
+    "firstName": "Robin",
+    "lastName": "Jose",
+    "createdAt": "2023-09-08T14:04:10.220Z",
+    "updatedAt": "2023-09-22T09:07:13.894Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_SzHwS_RTg_XUZ28wnIjb4fk",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "gary.willmott@taiwa.com",
+    "firstName": "Gary",
+    "lastName": "Willmott",
+    "createdAt": "2023-09-08T14:03:09.858Z",
+    "updatedAt": "2023-09-11T08:23:51.582Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_uUjabWvw2FWSNhtZgpkzuto",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "dawa.phillips@taiwa.com",
+    "firstName": "Dawa",
+    "lastName": "Phillips",
+    "createdAt": "2023-09-11T18:48:50.196Z",
+    "updatedAt": "2023-09-11T19:02:42.858Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  },
+  {
+    "userId": "usr_K9LuyMWmceObJtGLBXdVGLW",
+    "orgId": "org_9VRrSvYfgmaX600OekDXs6_",
+    "email": "data.analytics@taiwa.com",
+    "firstName": "data.analytics",
+    "lastName": "taiwa",
+    "createdAt": "2023-09-20T10:26:18.329Z",
+    "updatedAt": "2023-09-20T10:27:15.452Z",
+    "metadata": {
+      "inviteeId": "usr__lABFUZBipvpeilLXMKIGR0"
+    }
+  }
+]

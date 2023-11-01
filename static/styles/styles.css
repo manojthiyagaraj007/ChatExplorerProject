@@ -1,0 +1,62 @@
+body {
+    background: linear-gradient(to bottom, #eeedf6, #c4c3cd);
+    height: 100vh;
+
+  }
+
+
+.signupcard{
+    width: 70%;
+    margin: auto;
+}
+
+.companylogo{
+    width: 40% !important;
+    height: 40px !important;
+}
+
+.signupsection{
+    border: 2px solid #daebf4;
+    border-radius: 5px;
+}
+
+
+
+.headText{
+    font-family: math;
+    font-size: 25px;
+    color: #1e90ff;
+    font-weight: bold;
+}
+
+.formsection label{
+    font-size: 13px;
+    font-weight: 600;
+    color:#57606f;
+}
+
+.inputlabel{
+    background-color: #e8f0fe !important;
+    border: 2px solid #d3d8e1;
+    border-radius: 4px;
+    min-height: 35px;
+    color: #000;
+    display: block;
+}
+
+.donttext{
+    font-size: 12px;
+}
+.newlink{
+    font-size: 12px;
+    text-decoration:underline;
+    font-weight: 500;
+}
+
+#signupcard {
+    display: none;
+}
+
+.invalidtext{
+    font-size: 11px;
+}
