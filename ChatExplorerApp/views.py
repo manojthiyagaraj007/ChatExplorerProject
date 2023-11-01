@@ -7,9 +7,10 @@ from django.contrib.auth import authenticate, login
 from rest_framework.decorators import api_view
 from django.http import JsonResponse
 from django.db.models import Max
-
+from rest_framework.response import Response
 from ChatExplorerApp.Models.usermodel import UserModel
-
+from ChatExplorerApp.serializers import ChatModelSerializer
+from django.db.models import Q
 # Create your views here.
 
 
@@ -126,3 +127,11 @@ def chat(request):
     user_list = UserModel.objects.all()
     print(user_list)
     return render(request,'chat.html',{'user_list':user_list})
+
+
+# Api Method for getting chat results with session_id and user_id
+@api_view(['GET'])
+def getchatresults(request,user_id,session_id):
+    chat_result = ChatModel.objects.filter(Q(userId=user_id) | Q(userId="taiwa-bot"), sessionId=session_id)
+    serializer = ChatModelSerializer(chat_result,many=True)
+    return Response(serializer.data)
